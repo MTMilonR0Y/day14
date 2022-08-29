@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fullwebsite{
+    width: 1080px;
+    margin: 10px auto;
+}
+
+/* menu Section */
+.menu{
+    background-color: #fff;
+}
+.menu ul{
+    text-align: center;
+}
+.menu ul li{
+    display: inline-block;
+
+}
+.menu ul li a{
+    text-decoration: none;
+    display: inline-block;
+    background-color: #48dbfb;
+    padding: 10px 20px;
+}
+.menu ul li a:hover{}
+
+
+/* Google play */
+.appdiv{
+    background-color: #48dbfb;
+    margin-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.appdiv span {
+	margin-top: 60px;
+	display: inline-block;
+}
+.appdiv h1{
+    margin-top: 20px;
+}
+.appdiv button {
+	margin: 30px 0;
+	padding: 15px 35px;
+}
+
+
+/* contanerdiv */
+.contanerdiv{
+width: 1080px;
+background-color: rgb(3, 120, 136);
+text-align: center;
+}
+.contanerdiv p{
+    color: #ddd;
+}
+
+
+/* contenter letter */
+.cont-letter{
+    text-align: center;
+
+}
